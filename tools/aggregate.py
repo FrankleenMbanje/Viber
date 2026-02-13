@@ -76,11 +76,11 @@ def run():
         "errors": all_errors if all_errors else None,
     }
 
-    # Write to .tmp/articles.json
+    # Write to dashboard/articles.json (for deployment)
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    tmp_dir = os.path.join(project_root, ".tmp")
-    os.makedirs(tmp_dir, exist_ok=True)
-    output_path = os.path.join(tmp_dir, "articles.json")
+    dashboard_dir = os.path.join(project_root, "dashboard")
+    os.makedirs(dashboard_dir, exist_ok=True)
+    output_path = os.path.join(dashboard_dir, "articles.json")
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)

@@ -36,7 +36,7 @@
 
             // Try fetch first (works with any server)
             try {
-                const resp = await fetch('../.tmp/articles.json');
+                const resp = await fetch('./articles.json');
                 if (resp.ok) {
                     data = await resp.json();
                 }

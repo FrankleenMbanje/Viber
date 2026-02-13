@@ -1,0 +1,25 @@
+{
+  "scrapedAt": "2026-02-13T16:00:00Z",
+  "totalArticles": 1,
+  "articles": [
+    {
+      "id": "welcome-1",
+      "title": "Welcome to AI Pulse (Deployed)",
+      "subtitle": "Your daily AI intelligence feed is now live on Vercel.",
+      "url": "https://github.com/FrankleenMbanje/Viber",
+      "source": "ai-rundown",
+      "sourceName": "AI Pulse System",
+      "publishedAt": "2026-02-13T16:00:00Z",
+      "scrapedAt": "2026-02-13T16:00:00Z",
+      "summary": "This is a sample article. The real data aggregator runs locally. To see live data, run 'python tools/aggregate.py' locally and push the updated 'dashboard/articles.json' to GitHub.",
+      "imageUrl": null,
+      "author": "System",
+      "tags": [
+        "welcome",
+        "deployment"
+      ],
+      "isSaved": false,
+      "isNew": true
+    }
+  ]
+}
