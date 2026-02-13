@@ -1,22 +1,174 @@
 {
-  "scrapedAt": "2026-02-13T16:00:00Z",
-  "totalArticles": 1,
+  "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+  "totalArticles": 9,
   "articles": [
     {
-      "id": "welcome-1",
-      "title": "Welcome to AI Pulse (Deployed)",
-      "subtitle": "Your daily AI intelligence feed is now live on Vercel.",
-      "url": "https://github.com/FrankleenMbanje/Viber",
-      "source": "ai-rundown",
-      "sourceName": "AI Pulse System",
-      "publishedAt": "2026-02-13T16:00:00Z",
-      "scrapedAt": "2026-02-13T16:00:00Z",
-      "summary": "This is a sample article. The real data aggregator runs locally. To see live data, run 'python tools/aggregate.py' locally and push the updated 'dashboard/articles.json' to GitHub.",
-      "imageUrl": null,
-      "author": "System",
+      "id": "17fbdf5a1a0f2355",
+      "title": "You don't need to be an engineer to build things",
+      "subtitle": "Why should they have all the fun?",
+      "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "Why should they have all the fun?",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!d4n0!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbensbites.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2099542598%26version%3D9",
+      "author": "Ben Tossell",
       "tags": [
-        "welcome",
-        "deployment"
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "092d932e0a669737",
+      "title": "Something big is happening",
+      "subtitle": "not just $60m seed rounds...",
+      "url": "https://www.bensbites.com/p/something-big-is-happening",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "not just $60m seed rounds...",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!G_td!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd99b2aa8-a8d3-4511-a388-fd37bc878298_2752x1536.jpeg",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "b666ee4879301d77",
+      "title": "Who owns the Frontier?",
+      "subtitle": "it's time to let the minions run wild",
+      "url": "https://www.bensbites.com/p/who-owns-the-frontier",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "it's time to let the minions run wild",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!w5fm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10088ce0-c8e6-41ce-8242-d0fe15b67d9e_1456x808.png",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "212981da44995772",
+      "title": "Vibe coding is old now",
+      "subtitle": "Anthropic's new ad, it's about... ads",
+      "url": "https://www.bensbites.com/p/vibe-coding-is-old-now",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "Anthropic's new ad, it's about... ads",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!vN64!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdce8bef0-e2a4-4675-9600-e10a7891f224_1668x942.png",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "8ca4fe5dd9367f8b",
+      "title": "You don't need to be an engineer to build things",
+      "subtitle": "Why should they have all the fun?",
+      "url": "https://www.bensbites.com/p/you-dont-need-to-be-an-engineer-to",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "Why should they have all the fun?",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!d4n0!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbensbites.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2099542598%26version%3D9",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "292a619eb976ca4c",
+      "title": "What's next for coding agents?",
+      "subtitle": "New UIs, lobsters and imagined worlds.",
+      "url": "https://www.bensbites.com/p/whats-next-for-coding-agents",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "New UIs, lobsters and imagined worlds.",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!gS7I!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff463d09f-9d80-46ed-a22c-07f6f70ac8ed_1794x1016.png",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "efbe0e658e0af777",
+      "title": "Skills are taking over",
+      "subtitle": "A new model I'm excited about",
+      "url": "https://www.bensbites.com/p/skills-are-taking-over",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "A new model I'm excited about",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!Uy0g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b0b3843-a5bc-49cc-bd39-3439bb53fc97_1398x818.png",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "8758207b0edf2fb1",
+      "title": "Is your repo agent ready?",
+      "subtitle": "Vibe code with me today",
+      "url": "https://www.bensbites.com/p/using-coding-agents-if-youre-not",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "Vibe code with me today",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!mrJP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12242c73-0a49-4855-a021-a224466a37b4_1444x915.png",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "fd314964612492a5",
+      "title": "Ads in your chats",
+      "subtitle": "OpenAI made $20B in 2025",
+      "url": "https://www.bensbites.com/p/ads-in-your-chats",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
+      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "summary": "OpenAI made $20B in 2025",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!yXro!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa276c43f-745d-461b-9059-210422571b0e_1024x559.png",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
       ],
       "isSaved": false,
       "isNew": true

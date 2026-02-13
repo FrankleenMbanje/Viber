@@ -505,22 +505,40 @@ body {
 .card-link-overlay {
     position: absolute;
     inset: 0;
-    z-index: 1;
+    z-index: 10;
+    /* Increased to sit above card body text */
 }
 
 /* Card body & actions above overlay */
 .card-body {
     position: relative;
-    z-index: 2;
+    z-index: 5;
+    /* Lower than overlay so text doesn't block click, but... wait, if text is under overlay it's not selectable. That's usually fine for "clickable cards". */
+    pointer-events: none;
+    /* Let clicks pass through to the overlay */
+}
+
+.card-body .btn-action,
+.card-body .card-meta,
+.card-body .card-title,
+.card-body .card-summary {
+    /* If we want text selection, this is tricky. 
+       Standard "clickable card" usually sacrifices text selection for clickability, 
+       OR uses JS. 
+       With the anchor overlay approach:
+       - Overlay z-index 10
+       - Buttons z-index 20
+       - Text z-index 5 (under overlay)
+    */
 }
 
 .card-image-wrapper {
     position: relative;
-    z-index: 0;
+    z-index: 1;
 }
 
 .new-badge {
-    z-index: 3;
+    z-index: 20;
 }
 
 @keyframes cardEnter {
@@ -719,8 +737,11 @@ body {
     transition: all var(--transition-fast);
     font-size: 1rem;
     position: relative;
-    z-index: 3;
+    z-index: 30;
+    /* Must be higher than overlay (10) */
     text-decoration: none;
+    pointer-events: auto;
+    /* Re-enable clicks if parent has pointer-events: none */
 }
 
 .btn-action:hover {
