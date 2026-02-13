@@ -1,7 +1,216 @@
 {
-  "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
-  "totalArticles": 9,
+  "scrapedAt": "2026-02-13T16:48:18.460863+00:00",
+  "totalArticles": 20,
+  "sources": {
+    "bens-bites": {
+      "status": "ok",
+      "articleCount": 10,
+      "errors": null
+    },
+    "ai-rundown": {
+      "status": "ok",
+      "articleCount": 10,
+      "errors": null
+    },
+    "reddit": {
+      "status": "partial",
+      "articleCount": 0,
+      "errors": [
+        "Failed to fetch r/artificial"
+      ]
+    }
+  },
   "articles": [
+    {
+      "id": "07f29a1459ed9305",
+      "title": "Google's upgrade breaks reasoning barriers",
+      "subtitle": "Google's upgraded Deep Think AI shatters reasoning benchmarks, demonstrating unprecedented problem-solving capabilities in math, coding, and scientific research domains.",
+      "url": "https://www.therundown.ai/p/googles-upgrade-breaks-reasoning-barriers",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "Google's upgraded Deep Think AI shatters reasoning benchmarks, demonstrating unprecedented problem-solving capabilities in math, coding, and scientific research domains.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f6c44368-675a-425a-ab3e-1c958303dbac/deepthink.jpg?t=1770935957",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "2171762959949417",
+      "title": "xAI's next phase unleashed",
+      "subtitle": "XAI's first all-hands meeting reveals bold restructuring plans, moon-based data centers, and insights into Elon Musk's evolving AI strategy after key team departures.",
+      "url": "https://www.therundown.ai/p/xai-s-next-phase-unleashed",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "XAI's first all-hands meeting reveals bold restructuring plans, moon-based data centers, and insights into Elon Musk's evolving AI strategy after key team departures.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c49cba46-2ead-4e03-b6d9-c06d97e4804a/Upscaled_Image.png?t=1770884495",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "c06c9947adabbfac",
+      "title": "xAI's co-founder exodus continues",
+      "subtitle": "xAI faces mounting leadership challenges as five co-founders exit in less than a year, sparking industry speculation about the company's internal dynamics and strategic direction.",
+      "url": "https://www.therundown.ai/p/xai-co-founder-exodus-continues",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "xAI faces mounting leadership challenges as five co-founders exit in less than a year, sparking industry speculation about the company's internal dynamics and strategic direction.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4186664b-5a09-45cf-ae54-96b2576dd720/tonywu.jpg?t=1770762119",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "ff9298a205de6280",
+      "title": "ByteDance stuns the AI video world",
+      "subtitle": "ByteDance's Seedance 2.0 revolutionizes AI video generation, showcasing unprecedented creative capabilities that challenge global competitors and hint at a transformative Eastern innovation.",
+      "url": "https://www.therundown.ai/p/bytedance-stuns-the-ai-video-world",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "ByteDance's Seedance 2.0 revolutionizes AI video generation, showcasing unprecedented creative capabilities that challenge global competitors and hint at a transformative Eastern innovation.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a7027f07-190e-49c6-a0b5-da8d9d55f4a2/seedream20.jpg?t=1770678496",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "baba37627827edd7",
+      "title": "AI ads steal the show at Super Bowl LX",
+      "subtitle": "AI takes center stage at Super Bowl LX, with tech giants and startups showcasing groundbreaking ads that highlight artificial intelligence's explosive mainstream potential and creativity.",
+      "url": "https://www.therundown.ai/p/ai-ads-steal-the-show-at-super-bowl-lx",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "AI takes center stage at Super Bowl LX, with tech giants and startups showcasing groundbreaking ads that highlight artificial intelligence's explosive mainstream potential and creativity.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/93c6e496-d385-4126-9515-d689ccee1b47/svedka.jpg?t=1770580949",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "c4778da7d470ef46",
+      "title": "OpenAI, Anthropic fight on the frontier",
+      "subtitle": "OpenAI and Anthropic battle on the AI frontier, unveiling groundbreaking advancements in agentic coding, self-improving models, and enterprise automation.",
+      "url": "https://www.therundown.ai/p/openai-anthropic-fight-on-the-frontier",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "OpenAI and Anthropic battle on the AI frontier, unveiling groundbreaking advancements in agentic coding, self-improving models, and enterprise automation.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4b43908f-18f5-4f1c-ab32-619ad9ccdcd3/6e29759b50e8b3a8363b38b1f573d854df968671-3840x2160.jpg?t=1770333555",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "b11bda4a918838e8",
+      "title": "Anthropic’s ad-free campaign takes aim at OpenAI",
+      "subtitle": "Anthropic launches bold Super Bowl campaign challenging OpenAI's ad strategy, positioning Claude as the principled AI alternative in a high-stakes industry showdown.",
+      "url": "https://www.therundown.ai/p/anthropics-ad-free-campaign-takes-aim-at-openai",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "Anthropic launches bold Super Bowl campaign challenging OpenAI's ad strategy, positioning Claude as the principled AI alternative in a high-stakes industry showdown.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/403cd88c-1513-4ca1-b242-c78c6d31271e/adsclaude.jpg?t=1770244777",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "5f8acc8733bf2ddb",
+      "title": "Sam Altman’s OpenAI succession plan",
+      "subtitle": "Sam Altman unveils OpenAI's bold succession strategy, highlighting leadership continuity and vision while sparking industry-wide speculation about the company's future direction.",
+      "url": "https://www.therundown.ai/p/sam-altmans-openai-succession-plan",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "Sam Altman unveils OpenAI's bold succession strategy, highlighting leadership continuity and vision while sparking industry-wide speculation about the company's future direction.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/050bdd77-5447-4eec-8464-f1ce1e73b39f/1770159130973.png?t=1770159510",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "6fbc5e3d8b71c54d",
+      "title": "xAI joins SpaceX in mega-merger",
+      "subtitle": "Elon Musk merges xAI and SpaceX into a $1.25T powerhouse, pioneering space-based compute and reshaping the future of AI infrastructure with an unprecedented strategic vision.",
+      "url": "https://www.therundown.ai/p/xai-joins-spacex-in-mega-merger",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "Elon Musk merges xAI and SpaceX into a $1.25T powerhouse, pioneering space-based compute and reshaping the future of AI infrastructure with an unprecedented strategic vision.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c6968ff7-a66e-4956-9ec9-cc060ac786f0/1770074164289.png?t=1770075471",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "fc93be1c18895c9c",
+      "title": "AI agents get their own social network",
+      "subtitle": "AI agents create their own social network Moltbook, sparking wild interactions and raising questions about AI autonomy, communication, and unexpected digital behaviors.",
+      "url": "https://www.therundown.ai/p/ai-agents-get-their-own-social-network",
+      "source": "ai-rundown",
+      "sourceName": "The AI Rundown",
+      "publishedAt": "2026-02-13T16:48:34.466270+00:00",
+      "scrapedAt": "2026-02-13T16:48:34.466270+00:00",
+      "summary": "AI agents create their own social network Moltbook, sparking wild interactions and raising questions about AI autonomy, communication, and unexpected digital behaviors.",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/faf4c407-1dac-4e49-81e5-657714e67e13/moltbook.jpg?t=1769985314",
+      "author": "The Rundown AI",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
     {
       "id": "17fbdf5a1a0f2355",
       "title": "You don't need to be an engineer to build things",
@@ -9,8 +218,8 @@
       "url": "https://bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "Why should they have all the fun?",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!d4n0!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbensbites.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2099542598%26version%3D9",
       "author": "Ben Tossell",
@@ -28,8 +237,8 @@
       "url": "https://www.bensbites.com/p/something-big-is-happening",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "not just $60m seed rounds...",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!G_td!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd99b2aa8-a8d3-4511-a388-fd37bc878298_2752x1536.jpeg",
       "author": "Ben Tossell",
@@ -47,8 +256,8 @@
       "url": "https://www.bensbites.com/p/who-owns-the-frontier",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "it's time to let the minions run wild",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!w5fm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10088ce0-c8e6-41ce-8242-d0fe15b67d9e_1456x808.png",
       "author": "Ben Tossell",
@@ -66,8 +275,8 @@
       "url": "https://www.bensbites.com/p/vibe-coding-is-old-now",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "Anthropic's new ad, it's about... ads",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!vN64!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdce8bef0-e2a4-4675-9600-e10a7891f224_1668x942.png",
       "author": "Ben Tossell",
@@ -85,8 +294,8 @@
       "url": "https://www.bensbites.com/p/you-dont-need-to-be-an-engineer-to",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "Why should they have all the fun?",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!d4n0!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbensbites.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2099542598%26version%3D9",
       "author": "Ben Tossell",
@@ -104,10 +313,29 @@
       "url": "https://www.bensbites.com/p/whats-next-for-coding-agents",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "New UIs, lobsters and imagined worlds.",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!gS7I!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff463d09f-9d80-46ed-a22c-07f6f70ac8ed_1794x1016.png",
+      "author": "Ben Tossell",
+      "tags": [
+        "ai",
+        "newsletter"
+      ],
+      "isSaved": false,
+      "isNew": true
+    },
+    {
+      "id": "8d3a76f86a07d6cd",
+      "title": "Writing research made easy",
+      "subtitle": "Improving vision using code",
+      "url": "https://www.bensbites.com/p/writing-research-made-easy",
+      "source": "bens-bites",
+      "sourceName": "Ben's Bites",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
+      "summary": "Improving vision using code",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!u3J5!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76395fee-4bbb-483f-965d-6fb80cd666f6_711x400.jpeg",
       "author": "Ben Tossell",
       "tags": [
         "ai",
@@ -123,8 +351,8 @@
       "url": "https://www.bensbites.com/p/skills-are-taking-over",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "A new model I'm excited about",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!Uy0g!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b0b3843-a5bc-49cc-bd39-3439bb53fc97_1398x818.png",
       "author": "Ben Tossell",
@@ -142,8 +370,8 @@
       "url": "https://www.bensbites.com/p/using-coding-agents-if-youre-not",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "Vibe code with me today",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!mrJP!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12242c73-0a49-4855-a021-a224466a37b4_1444x915.png",
       "author": "Ben Tossell",
@@ -161,8 +389,8 @@
       "url": "https://www.bensbites.com/p/ads-in-your-chats",
       "source": "bens-bites",
       "sourceName": "Ben's Bites",
-      "publishedAt": "2026-02-13T16:15:09.603574+00:00",
-      "scrapedAt": "2026-02-13T16:15:09.603574+00:00",
+      "publishedAt": "2026-02-13T16:48:18.460913+00:00",
+      "scrapedAt": "2026-02-13T16:48:18.460913+00:00",
       "summary": "OpenAI made $20B in 2025",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!yXro!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa276c43f-745d-461b-9059-210422571b0e_1024x559.png",
       "author": "Ben Tossell",
@@ -173,5 +401,8 @@
       "isSaved": false,
       "isNew": true
     }
+  ],
+  "errors": [
+    "Failed to fetch r/artificial"
   ]
 }
